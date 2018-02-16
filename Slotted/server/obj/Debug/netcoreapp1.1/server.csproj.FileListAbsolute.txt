@@ -1,0 +1,9 @@
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\bin\Debug\netcoreapp1.1\server.deps.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\bin\Debug\netcoreapp1.1\server.runtimeconfig.dev.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\bin\Debug\netcoreapp1.1\server.dll
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\bin\Debug\netcoreapp1.1\server.pdb
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\obj\Debug\netcoreapp1.1\server.csprojResolveAssemblyReference.cache
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\obj\Debug\netcoreapp1.1\server.AssemblyInfo.cs
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\obj\Debug\netcoreapp1.1\server.dll
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\server\obj\Debug\netcoreapp1.1\server.pdb

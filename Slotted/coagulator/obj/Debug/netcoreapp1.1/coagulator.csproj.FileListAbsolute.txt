@@ -1,0 +1,9 @@
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\bin\Debug\netcoreapp1.1\coagulator.deps.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\bin\Debug\netcoreapp1.1\coagulator.runtimeconfig.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\bin\Debug\netcoreapp1.1\coagulator.runtimeconfig.dev.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\bin\Debug\netcoreapp1.1\coagulator.dll
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\bin\Debug\netcoreapp1.1\coagulator.pdb
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\obj\Debug\netcoreapp1.1\coagulator.AssemblyInfo.cs
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\obj\Debug\netcoreapp1.1\coagulator.dll
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\obj\Debug\netcoreapp1.1\coagulator.pdb
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\coagulator\obj\Debug\netcoreapp1.1\coagulator.csprojResolveAssemblyReference.cache

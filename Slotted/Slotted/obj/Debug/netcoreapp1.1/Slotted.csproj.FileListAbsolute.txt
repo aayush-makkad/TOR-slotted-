@@ -1,0 +1,9 @@
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\bin\Debug\netcoreapp1.1\Slotted.deps.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\bin\Debug\netcoreapp1.1\Slotted.runtimeconfig.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\bin\Debug\netcoreapp1.1\Slotted.runtimeconfig.dev.json
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\bin\Debug\netcoreapp1.1\Slotted.dll
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\bin\Debug\netcoreapp1.1\Slotted.pdb
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\obj\Debug\netcoreapp1.1\Slotted.AssemblyInfo.cs
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\obj\Debug\netcoreapp1.1\Slotted.dll
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\obj\Debug\netcoreapp1.1\Slotted.pdb
+C:\Users\aayum\OneDrive\documents\visual studio 2017\Projects\Slotted\Slotted\obj\Debug\netcoreapp1.1\Slotted.csprojResolveAssemblyReference.cache
